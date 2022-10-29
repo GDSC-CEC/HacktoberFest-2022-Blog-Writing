@@ -166,4 +166,20 @@ This blog is a collection of technologies that I think are worth learning in nex
 
 * Intel Curie - The Intel Curie is a series of small form-factor barebone computer kits for an Intel Core processor series, introduced in 2012.
 
+## Game Development
+
+* C++ - C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs.
+
+* C# - C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework. C# is used to develop web apps, desktop apps, mobile apps, games and much more.
+
+* Nuke - Nuke is a node-based digital compositing and visual effects application first developed by Digital Domain, and used for television and film post-production.
+
+* Unreal Engine - Unreal Engine is the world's most open and advanced real-time 3D creation tool for photoreal visuals and immersive experiences.
+
+* Unity - Unity is a tool that allows you to accomplish different types of tasks related to the game production process. Unity provides game developers with a 2D and 3D platform to create video games.
+
+* Autodesk Maya - Maya is a professional 3D animation, modeling, simulation, and rendering toolset, designed for creating realistic characters and blockbuster-worthy effects.
+
+* Adobe Photoshop - Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS.
+
 ### This list is a work in progress. Please feel free to contribute to it by submitting a pull request. Created by Anamaya Sharma. Thank you!

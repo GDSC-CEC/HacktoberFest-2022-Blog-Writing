@@ -55,6 +55,44 @@ The different processes are:
 5. Monitoring and logging
 6. Communication and Collaboration
 
+## **DevOps Tools⚒️**
+
+Docker - Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.
+
+Kubernetes - Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.
+
+Helm - Helm is a tool for managing Kubernetes charts. Charts are packages of pre-configured Kubernetes resources.
+
+Terraform - Terraform is an open-source infrastructure as code software tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionally JSON.
+
+Ansible - Ansible is an open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code.
+
+Packer - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+
+Vault - Vault is a tool for managing secrets. Secrets are any sensitive data that you want to tightly control access to, such as API keys, passwords, certificates, and more.
+
+Nomad - Nomad is a tool for managing a cluster of Linux containers or Windows containers. Nomad is easy to operate and scale, and can run anywhere from laptops to large data centers.
+
+Consul - Consul is a tool for discovering and configuring services in your infrastructure. It provides several key features, including a service catalog, health checking, and a KV store.
+
+Vagrant - Vagrant is a tool for building and managing virtual machine environments in a single workflow.
+
+Jenkins - Jenkins is an open source automation server. It helps to automate the non-human part of the software development process, with continuous integration and facilitating technical aspects of continuous delivery.
+
+Drone - Drone is a Continuous Delivery platform built on Docker, written in Go.
+
+Gitlab CI - GitLab CI/CD is a set of continuous integration and continuous delivery features included with GitLab that allows you to test, build, and deploy your code.
+
+CircleCI - CircleCI is a continuous integration and continuous delivery platform. It helps software teams rapidly release code with confidence by automating the build, test, and deploy process.
+
+Travis CI - Travis CI is a hosted, distributed continuous integration service used to build and test software projects hosted at GitHub.
+
+AWS - Amazon Web Services (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
+
+GCP - Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, file storage, and YouTube.
+
+Azure - Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services. It provides software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS) and supports many different programming languages, tools and frameworks, including both Microsoft-specific and third-party software and systems.
+
 ## **Challenges that DevOps tries to solve🤔**
 - Miscommunication and lack of collaboration
 - Conflict of interests between Development team and Operation team

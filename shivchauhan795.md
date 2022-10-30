@@ -13,6 +13,13 @@ Well if we talk about electric vehicles, these are very efficient than the old o
 4. Easy To Use- These vehicles are very easy to use for daily purposes. Unlike other vehicles, some EVs don’t have gears which makes them easy to drive for new learners.
 5. No Noise- As these EVs don’t need an Engine, thus there is no chance of producing noise in any chance. This makes a reason for some people to buy this new invention.
 
+## **DISADVANTAGES OF ELECTRIC VEHICLES**
+1. Recharge Points - Electric fuelling stations are still in the development stages. Not a lot of places you go to on a daily basis will have electric fuelling stations for your vehicle, meaning that if you’re on a long trip or decide to visit family in a rural or suburban area and run out of charge, it may be harder to find a charging station. You may be stuck where you are.
+2. Electricity isn't Free - Electric cars can also be a hassle on your energy bill if you’re not considering the options carefully. If you haven’t done your research into the electric car you want to purchase, then you may be making an unwise investment.
+3. Short Driving Range and Speed - Electric cars are limited by range and speed. Most of these cars have a range of about 50-100 miles and need to be recharged again. You just can’t use them for long journeys as of now, although it is expected to improve in the future.
+4. Long Recharge Time - While it takes a couple of minutes to fuel your gasoline-powered car, an electric car takes about 4-6 hours and sometimes even a day to get fully charged. Therefore, you need dedicated power stations as the time taken to recharge them is quite long. Thus, the time investment and necessary planning do put some people off.
+5. Low Amount of Choices - The market today for electric cars is expanding, with no signs of slowing down. However, the truth is that there are fewer options to customize and choose the aesthetics of your EV.
+
 ## **SCOPE**
 
 From recent studies, it has been found that the EV market is expected to be worth at least Rs. 475 billion by 2025. Currently, there are few passenger cars and public buses which have acquired a portion of the automobile market. But these industries will definitely make a great change and make an impact in society towards cost efficiency and marketing.
